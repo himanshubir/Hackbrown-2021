@@ -1,3 +1,4 @@
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
-    sendResponse({'item': document.querySelector("#menuItem > fieldset > div:nth-child(2) > div > h1").innerText})
+    let selector = document.querySelector("#menuItem > fieldset > div:nth-child(2) > div > h1");
+    sendResponse({'item': (selector == null ? undefined : selector.innerText)})
 })
