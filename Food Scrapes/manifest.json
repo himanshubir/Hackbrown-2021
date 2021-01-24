@@ -1,5 +1,5 @@
 {
-  "name": "bear",
+  "name": "Food Scrapes",
   "version": "1.0",
   "manifest_version": 2,
   "content_scripts": [
@@ -10,13 +10,10 @@
   ],
   "browser_action": {
     "default_popup": "popup.html",
-    "default_title": "Bear"
+    "default_title": "Food Scrapes"
   },
   "web_accessible_resources": [
     "Menu/torchys_nutrition_information.json",
     "Menu/torchys_logo.png"
   ]
 }
-
-
-
