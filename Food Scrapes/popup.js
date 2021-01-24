@@ -1,8 +1,8 @@
 const url = chrome.runtime.getURL('Menu/torchys_nutrition_information.json');
-const imgurl = chrome.runtime.getURL("Menu/torchy's.png")
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('button').addEventListener('click',
         onClick, false)
+const imgurl = chrome.runtime.getURL("Menu/torchys_logo.png");
 
     function onClick() {
         chrome.tabs.query({currentWindow: true, active: true},
