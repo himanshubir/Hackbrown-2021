@@ -1,0 +1,254 @@
+{
+    "#1 BACON, EGG & CHEESE":{
+        "Calories":405.0,
+        "Calories\/Fat":243.0,
+        "Total Fat":27.0,
+        "Cholesterol":null,
+        "Total Carbs":2.0,
+        "Sodium":16.0,
+        "Protein":4.0
+    },
+    "#2 POTATO, EGG & CHEESE":{
+        "Calories":334.0,
+        "Calories\/Fat":171.0,
+        "Total Fat":19.0,
+        "Cholesterol":null,
+        "Total Carbs":3.0,
+        "Sodium":26.0,
+        "Protein":4.0
+    },
+    "#3 CHORIZO, EGG & CHEESE":{
+        "Calories":410.0,
+        "Calories\/Fat":252.0,
+        "Total Fat":28.0,
+        "Cholesterol":null,
+        "Total Carbs":2.0,
+        "Sodium":16.0,
+        "Protein":3.0
+    },
+    "#4 JALAPE\u00d1O SAUSAGE, EGG & CHEESE":{
+        "Calories":356.0,
+        "Calories\/Fat":216.0,
+        "Total Fat":24.0,
+        "Cholesterol":null,
+        "Total Carbs":2.0,
+        "Sodium":16.0,
+        "Protein":4.0
+    },
+    "#5 POTATO, BLACK BEAN & CHEESE":{
+        "Calories":366.0,
+        "Calories\/Fat":91.0,
+        "Total Fat":10.0,
+        "Cholesterol":null,
+        "Total Carbs":4.0,
+        "Sodium":55.0,
+        "Protein":13.0
+    },
+    "#5 POTATO, PINTO BEAN & CHEESE":{
+        "Calories":337.0,
+        "Calories\/Fat":90.0,
+        "Total Fat":10.0,
+        "Cholesterol":null,
+        "Total Carbs":3.0,
+        "Sodium":47.0,
+        "Protein":10.0
+    },
+    "#6 BACON, EGG & SPINACH":{
+        "Calories":342.0,
+        "Calories\/Fat":198.0,
+        "Total Fat":22.0,
+        "Cholesterol":null,
+        "Total Carbs":2.0,
+        "Sodium":16.0,
+        "Protein":27.0
+    },
+    "DIRTY SANCHEZ":{
+        "Calories":464.0,
+        "Calories\/Fat":297.0,
+        "Total Fat":33.0,
+        "Cholesterol":null,
+        "Total Carbs":4.0,
+        "Sodium":24.0,
+        "Protein":38.0
+    },
+    "MIGAS":{
+        "Calories":364.0,
+        "Calories\/Fat":198.0,
+        "Total Fat":22.0,
+        "Cholesterol":null,
+        "Total Carbs":4.0,
+        "Sodium":25.0,
+        "Protein":10.0
+    },
+    "MONK SPECIAL":{
+        "Calories":423.0,
+        "Calories\/Fat":252.0,
+        "Total Fat":28.0,
+        "Cholesterol":null,
+        "Total Carbs":3.0,
+        "Sodium":19.0,
+        "Protein":4.0
+    },
+    "RANCH HAND":{
+        "Calories":423.0,
+        "Calories\/Fat":261.0,
+        "Total Fat":29.0,
+        "Cholesterol":null,
+        "Total Carbs":2.0,
+        "Sodium":17.0,
+        "Protein":6.0
+    },
+    "THE WRANGLER":{
+        "Calories":467.0,
+        "Calories\/Fat":252.0,
+        "Total Fat":28.0,
+        "Cholesterol":null,
+        "Total Carbs":3.0,
+        "Sodium":27.0,
+        "Protein":3.0
+    },
+    "ALABAMA SHAKE":{
+        "Calories":283.0,
+        "Calories\/Fat":99.0,
+        "Total Fat":11.0,
+        "Cholesterol":38.0,
+        "Total Carbs":35.0,
+        "Sodium":530.0,
+        "Protein":12.0
+    },
+    "BAJA SHRIMP":{
+        "Calories":444.0,
+        "Calories\/Fat":261.0,
+        "Total Fat":29.0,
+        "Cholesterol":104.0,
+        "Total Carbs":34.0,
+        "Sodium":769.0,
+        "Protein":12.0
+    },
+    "BEEF FAJITA":{
+        "Calories":436.0,
+        "Calories\/Fat":234.0,
+        "Total Fat":26.0,
+        "Cholesterol":67.0,
+        "Total Carbs":30.0,
+        "Sodium":513.0,
+        "Protein":23.0
+    },
+    "BRUSHFIRE":{
+        "Calories":281.0,
+        "Calories\/Fat":108.0,
+        "Total Fat":12.0,
+        "Cholesterol":67.0,
+        "Total Carbs":23.0,
+        "Sodium":876.0,
+        "Protein":22.0
+    },
+    "CHICKEN FAJITA":{
+        "Calories":374.0,
+        "Calories\/Fat":162.0,
+        "Total Fat":18.0,
+        "Cholesterol":74.0,
+        "Total Carbs":29.0,
+        "Sodium":449.0,
+        "Protein":25.0
+    },
+    "CROSSROADS":{
+        "Calories":439.0,
+        "Calories\/Fat":243.0,
+        "Total Fat":27.0,
+        "Cholesterol":70.0,
+        "Total Carbs":27.0,
+        "Sodium":835.0,
+        "Protein":23.0
+    },
+    "DEMOCRAT":{
+        "Calories":243.0,
+        "Calories\/Fat":72.0,
+        "Total Fat":8.0,
+        "Cholesterol":19.0,
+        "Total Carbs":32.0,
+        "Sodium":null,
+        "Protein":10.0
+    },
+    "FRIED AVOCADO":{
+        "Calories":387.0,
+        "Calories\/Fat":171.0,
+        "Total Fat":19.0,
+        "Cholesterol":39.0,
+        "Total Carbs":45.0,
+        "Sodium":559.0,
+        "Protein":12.0
+    },
+    "GREEN CHILE PORK":{
+        "Calories":248.0,
+        "Calories\/Fat":54.0,
+        "Total Fat":6.0,
+        "Cholesterol":44.0,
+        "Total Carbs":33.0,
+        "Sodium":656.0,
+        "Protein":17.0
+    },
+    "INDEPENDENT":{
+        "Calories":409.0,
+        "Calories\/Fat":225.0,
+        "Total Fat":25.0,
+        "Cholesterol":36.0,
+        "Total Carbs":40.0,
+        "Sodium":null,
+        "Protein":11.0
+    },
+    "MR. ORANGE":{
+        "Calories":282.0,
+        "Calories\/Fat":90.0,
+        "Total Fat":10.0,
+        "Cholesterol":9.0,
+        "Total Carbs":33.0,
+        "Sodium":719.0,
+        "Protein":15.0
+    },
+    "MR. PINK":{
+        "Calories":445.0,
+        "Calories\/Fat":252.0,
+        "Total Fat":28.0,
+        "Cholesterol":49.0,
+        "Total Carbs":29.0,
+        "Sodium":817.0,
+        "Protein":18.0
+    },
+    "REPUBLICAN":{
+        "Calories":395.0,
+        "Calories\/Fat":261.0,
+        "Total Fat":29.0,
+        "Cholesterol":62.0,
+        "Total Carbs":19.0,
+        "Sodium":935.0,
+        "Protein":15.0
+    },
+    "TIPSY CHICK":{
+        "Calories":null,
+        "Calories\/Fat":540.0,
+        "Total Fat":60.0,
+        "Cholesterol":172.0,
+        "Total Carbs":78.0,
+        "Sodium":null,
+        "Protein":56.0
+    },
+    "TRAILER PARK":{
+        "Calories":331.0,
+        "Calories\/Fat":171.0,
+        "Total Fat":19.0,
+        "Cholesterol":74.0,
+        "Total Carbs":22.0,
+        "Sodium":777.0,
+        "Protein":18.0
+    },
+    "TRAILER PARK TRASHY":{
+        "Calories":385.0,
+        "Calories\/Fat":216.0,
+        "Total Fat":24.0,
+        "Cholesterol":88.0,
+        "Total Carbs":23.0,
+        "Sodium":null,
+        "Protein":20.0
+    }
+}
